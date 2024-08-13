@@ -1,0 +1,42 @@
+[
+    {
+      "Name": " TextUtils - word counter, character counter, remove extra spaces",
+      "Desc": "TextUtils is a powerful and versatile text processing tool that offers a range of features for analyzing and manipulating text. With a user-friendly interface, TextUtils includes a word counter, character counter, and a feature to remove extra spaces from text. Additionally, users can generate a text summary to view the total word and character count, as well as an estimated reading time. The tool also allows users to preview their text for easy editing and formatting.",
+      "GithubLink": "https://github.com/Aryam2121/textutils.react.app",
+      "Demo": "https://text-app-one.vercel.app/",
+      "ImgSrc": "./project1.png"
+    },
+  
+    {
+      "Name": "House price detector",
+      "Desc": "A machine learning based web application that tells enables users to estimate and predict prices of houses in Bengaluru with an accuracy of 87% based on features like locality, total area, number of bedrooms, etc.",
+      "GithubLink": "",
+      "Demo": "",
+      "ImgSrc": "./project2.avif"
+    },
+  
+    {
+      "Name": "NewsDose",
+      "Desc": "NewsDose is a web application designed to provide the latest news headlines from around the world in various categories such as business, entertainment, sports, technology, and more. Built with React.js, the app features a clean and intuitive user interface, making it easy to navigate and browse news articles. NewsDose leverages NewsAPI to deliver real-time news and employs infinite scrolling for a seamless reading experience. Users can customize their news feed according to their interests and location, while interactive loading spinners enhance the user experience during data fetching. Dynamic routing with React Router DOM allows for smooth navigation between categories. The app is built with React.js and Bootstrap for modern design and hosted on Vercel for high performance and reliability..",
+      "GithubLink": "https://github.com/Aryam2121/News-app",
+      "Demo": "https://news-dose-blue.vercel.app/",
+      "ImgSrc": "./project3.png"
+    },
+  
+    {
+      "Name": "Customer Segmentation using Unsupervised Machine Learning",
+      "Desc": "Performed customer segmentation with an aim to discover natural groups in the unlabelled mall customer dataset with the help of unsupervised clustering ML algorithms. A comparison was shown between the K-Means, DBSCAN & Hierarchical clustering algorithms.",
+      "GithubLink": "",
+      "Demo": "",
+      "ImgSrc": "./project4.png"
+    },
+  
+    {
+      "Name": "Movie Recommender System",
+      "Desc": "Created and deployed a content based movie recommender system on Streamlit cloud that fetches data from TMDB API & recommends movies using cosine similarity scores.",
+      "GithubLink": "",
+      "Demo": "",
+      "ImgSrc": "./project5.jpeg"
+    }
+  ]
+  

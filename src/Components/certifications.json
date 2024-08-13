@@ -1,0 +1,47 @@
+[
+    {
+      "Name": "CodSoft Web Development Intern",
+      "Company": "CodSoft",
+      "IssueDate": "Nov 2023",
+      "Link": "https://drive.google.com/file/d/1TdPiW5VV9wsemPdGVPZgMe67D0qX_fDm/view",
+      "ImgSrc": "./CodSoft.png"
+    },
+  
+    {
+      "Name": "Develop a Custom Web Scraping and Text to Speech Application",
+      "Company": "Udemy",
+      "IssueDate": "Dec 2023",
+      "Link": "https://drive.google.com/file/d/1w-eYd4lKroBLxJvv34SEnpDAk6-nhvyN/view",
+      "ImgSrc": "./Text.png"
+    },
+    {
+      "Name": "Web developer Intern at Bharat Intern",
+      "Company": "Bharat Intern",
+      "IssueDate": "Dec 2023",
+      "Link": "https://drive.google.com/file/d/1Yr5XabHArtFg_bd4VKn3CKZ7aKqYGs5G/view",
+      "ImgSrc": "./Bharat.png"
+    },
+    {
+      "Name": "Machine Learning A-Z: AI, Python & R + ChatGPT",
+      "Company": "Deeplearning.AI",
+      "IssueDate": "Dec 2023",
+      "Link": "https://www.udemy.com/certificate/UC-0b517e55-1dd0-44ff-9ed2-da07180e299b/",
+      "ImgSrc": "./Ai.png"
+    },
+  
+    {
+      "Name": "Frontend Developer",
+      "Company": "Great Learning",
+      "IssueDate": "Sep 2023",
+      "Link": "https://drive.google.com/file/d/1sXkEXVFd2LU1caczcaWLnBUSp8UTjODR/view",
+      "ImgSrc": "./Dev.png"
+    },
+    {
+      "Name": " SQL Essentials for Data Engineering",
+      "Company": "Hacker Rank",
+      "IssueDate": "March 2024",
+      "Link": "https://www.hackerrank.com/certificates/5f011c7d597a",
+      "ImgSrc": "./SQL.png"
+    }
+  ]
+  
