@@ -1,5 +1,5 @@
 
-import skillsData from"./skills.json";
+import skillsData from"./Skills.json";
 import SkillCard from "./SkillCard";
 
 export default function Skills() {
